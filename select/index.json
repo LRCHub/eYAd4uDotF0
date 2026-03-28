@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "好きだから。",
   "base_artist": "『ユイカ』",
-  "createdAt": "2025-12-21T15:21:35.301502Z",
+  "createdAt": "2026-03-28T08:53:36.741316Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,24 @@
       "artist": "『ユイカ』",
       "has_synced": false,
       "path": "select/pl_01_好きだから。_『ユイカ』.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/localdb_01_好きだから。_『ユイカ』.lrc",
+      "repo_name": "k2P-M06mVB0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "好きだから。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/localdb_02_好きだから。_『ユイカ』.lrc",
+      "repo_name": "eYAd4uDotF0"
     }
   ]
 }
